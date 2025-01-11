@@ -1,0 +1,46 @@
+Olasubomi Akingbade
+Carleton University, Bachelor of Software Engineering
+
+
+subomiaki@gmail.com
+(613) 621-4173 
+
+
+Technical Skills
+Programming languages:    Python, C, Java, javascript
+Web development :              HTML, CSS, Node.js, React
+Tools:                                      Git
+Concepts:		       Data Structures, Algorithms, API integration
+
+
+EDUCATION and AWARDS
+Carleton University	Sept 2022 - 2027
+Bachelor of Software Engineering.
+Carleton University Entrance Scholarship valued at $4000.
+    
+Projects
+Webspeech AI Chatbot
+Developed a responsive AI chatbot using JavaScript and Node.js.
+Integrated Web Speech API for voice input and OpenAI API for intelligent responses.
+Utilized Express.js and Socket.io for seamless client-server communication and real-time message handling.
+Personalized the UI to enhance user experience and differentiate from similar applications.
+Github: https://github.com/subomiakingbade/AI-Chatbot
+Dynamic Data Visualizer
+Developed Data Visualization module using Python.
+Implemented polynomial fitting and interpolation logic. Efficiently processed and represented data attributes. Created informative histograms using Matplotlib.pyplot.
+Implemented a user-friendly interface with error handling. Enabled file loading, sorting, curve fitting, and histogram creation. 
+Developed a batch interface for automated command execution, ensuring consistency with the text UI for a seamless user experience.
+Github: https://github.com/subomiakingbade/Dynamic-Data-Visualiser
+User management System
+Developed a user management system in C based on facebook.
+Implemented a menu-driven application with various user management functionalities enhancing user experience and data organization.
+Implemented a post menu with options to add a post, remove a post, or return to the main menu.
+Ensured robust error handling for user inputs, providing a seamless and user-friendly interface. employing unit and integration testing
+Github: https://github.com/subomiakingbade/Text-based-Facebook
+    
+EXPERIENCE
+Youth Services - OCISO	Ottawa, ON
+Tutor	January - April 2022
+Aided high school students who recently immigrated to Canada with their homework after school biweekly to aid in their integration process to Canada.
+Tutored in the subjects of chemistry, math and physics.
+
