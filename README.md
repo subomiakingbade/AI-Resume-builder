@@ -9,7 +9,6 @@ An AI-powered application that helps tailor your resume to specific job descript
 - Get AI-powered analysis of job requirements
 - Receive tailored suggestions for your resume
 - Download tailored resume in text format
-- Modern, user-friendly interface
 
 ## Setup
 
@@ -96,7 +95,3 @@ The application will be available at http://localhost:3000
   - Python
   - OpenAI GPT
   - spaCy
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
