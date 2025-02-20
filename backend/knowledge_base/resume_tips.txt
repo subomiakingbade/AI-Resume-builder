@@ -1,0 +1,57 @@
+# Resume Writing Best Practices
+
+## General Tips
+- Keep your resume concise and focused
+- Use action verbs to describe achievements
+- Quantify results whenever possible
+- Tailor your resume for each job application
+- Proofread carefully for errors
+
+## Format and Structure
+- Use consistent formatting throughout
+- Include clear section headings
+- Use bullet points for readability
+- Keep to 1-2 pages maximum
+- Use professional fonts (Arial, Calibri, Times New Roman)
+
+## Content Sections
+### Contact Information
+- Full name
+- Professional email
+- Phone number
+- Location (city, state)
+- LinkedIn profile
+
+### Professional Summary
+- 2-3 sentences highlighting key qualifications
+- Focus on relevant skills and experience
+- Include industry-specific keywords
+- Align with job requirements
+
+### Work Experience
+- Company name and location
+- Job title and dates
+- Achievement-focused bullet points
+- Use metrics to demonstrate impact
+- Focus on relevant responsibilities
+
+### Education
+- Degree and major
+- University name and location
+- Graduation date
+- Relevant coursework
+- Academic achievements
+
+### Skills
+- Technical skills
+- Soft skills
+- Industry-specific certifications
+- Language proficiencies
+- Tools and technologies
+
+## Keywords and ATS
+- Include relevant keywords from job description
+- Use standard section headings
+- Avoid tables and complex formatting
+- Save in standard formats (PDF, DOCX)
+- Test with ATS systems
